@@ -1,0 +1,6 @@
+events/
+locks/
+packs/
+monitoring-desk.json
+*.csv
+monitoring-desk-backup_*.json
